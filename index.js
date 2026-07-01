@@ -3,3 +3,8 @@ function sayHello() {
 }
 
 sayHello();
+
+
+function greetWhite() {
+    console.log("hello white");
+}
